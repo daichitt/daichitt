@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Daichi Ishikawa from Japan.
+I'm one of junior software developper who loves Technology. I'm mainly using PHP so far. However I'm cullentlly intrested in Data science and statistic.
+I am doing these studies for the next five to ten years.　👋
 
 <!--　追加ここから　-->
 <!--
