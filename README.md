@@ -1,4 +1,4 @@
-### Hi I'm Daichi Ishikawa from Japan.
+### Hi I'm Daichi.
 I'm one of junior software developper who loves Technology. I'm mainly using PHP so far. However I'm cullentlly intrested in Data science and statistic.
 I am doing these studies for the next five to ten years.　👋
 
@@ -21,19 +21,15 @@ Here are some ideas to get you started:
 
 # Skills
 
-### Javascript ⭐️⭐️⭐️⭐️
-
-I've worked with it for approximately 1.5 years. I've used it in the front-end with library Jquery,
-
-### Python ⭐️
-
-I've started learning it recently and found it challenging (in a good way!) I'm not proficient yet but I've worked on some features and fixes on my own.
-
 ### PHP ⭐️⭐️⭐️
 
 My "native" programming language, I've worked with it for approximately 2 years.
 
 My responsible is focused web development with the PHP framework Laravel and S*ymfony.*
+
+### Javascript ⭐️⭐️⭐️
+
+I've worked with it for approximately 1.5 years. I've used it in the front-end with library Jquery,
 
 ### Ruby  ⭐️⭐️
 
@@ -41,6 +37,9 @@ I've worked with it for approximately 6 months years.
 
 My responsible is focused on web development with the Ruby framework Ruby on rails*.*
 
+### Python ⭐️
+
+I've started learning it recently and found it challenging (in a good way!) I'm not proficient yet but I've worked on some features and fixes on my own.
 
 ## 🗣 Languages
 
@@ -53,7 +52,7 @@ Native speaker
 Upper-intermediate English
 
 
-<h1 align="center">Hi 👋, I'm Daichi Ishikawa</h1>
+<h1 align="center">Hi 👋, I'm Daichi</h1>
 <h3 align="center">A passionate backend developer from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
