@@ -1,6 +1,36 @@
+
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daichitt&theme=github)
+
 ### Hi I'm Daichi.
 I'm one of junior software developper who loves Technology. I'm mainly using PHP so far. However I'm cullentlly intrested in Data science and statistic.
 I am doing these studies for the next five to ten years.　👋
+
+
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daichitt&theme=github)
+
+
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daichitt&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daichitt&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daichitt&theme=github&utcOffset=8)
+-->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daichitt&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichitt" />
+</a> -->
 
 # 職務経歴書
 ## アカウント  
