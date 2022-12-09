@@ -97,6 +97,9 @@ I am doing these studies for the next five to ten years.　👋
 ### Ruby
 - 2019年〜現在。Laravelの使用のために利用。
 
+### Symfony
+- 2022年〜現在。EC-CUBEの使用のために利用。
+
 ### MySQL
 - 2019年〜現在。RailsやLaravelでのWeb devのために利用。
 
