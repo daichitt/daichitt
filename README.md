@@ -34,16 +34,17 @@ I am doing these studies for the next five to ten years.　👋
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichitt" />
 </a> -->
 
+<!--
 # 職務経歴書
-## アカウント  
+-->
+## プロフィール
 
 |  Key  |  Value  |
 | ---- | ---- |
-|  名前  | Ishikawa Daichi  |
+|  氏名  | Ishikawa Daichi  |
 |  場所  |  ベトナム  |
 |  twitter  |  [@71414744e2414f4](https://twitter.com/71414744e2414f4)  |
 |  Facebook  |  [@daichiihiskawa](https://www.facebook.com/profile.php?id=100030926687822)  |
-|  GitHub  |  [@daichitt](https://github.com/daichitt/)  |
 |  お問合せ  |  [twitterDM](https://twitter.com/71414744e2414f4)  |
 |  英語  |  IELTS Academic Overall 5.0(2022年9月)  |
 
