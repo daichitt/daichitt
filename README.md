@@ -1,7 +1,7 @@
 
 
 
-
+<!-- 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daichitt&theme=github)
 
@@ -13,8 +13,10 @@ I am doing these studies for the next five to ten years.　👋
 
 
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daichitt&theme=github)
+
+ -->
+
 
 
 <!-- 
@@ -42,7 +44,8 @@ I am doing these studies for the next five to ten years.　👋
 |  twitter  |  [@71414744e2414f4](https://twitter.com/71414744e2414f4)  |
 |  Facebook  |  [@daichiihiskawa](https://www.facebook.com/profile.php?id=100030926687822)  |
 |  GitHub  |  [@daichitt](https://github.com/daichitt/)  |
-|  お問合せ  |  [twitterよりDM下さい](https://github.com/daichitt/)  |
+|  お問合せ  |  [twitterDM](https://twitter.com/71414744e2414f4)  |
+|  英語  |  IELTS Academic Overall 5.0(2022年9月)  |
 
 ## 職務経歴(サマリー)
 
@@ -60,24 +63,24 @@ I am doing these studies for the next five to ten years.　👋
 - 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
 - 新規でWeb中古品販売プラットフォーをWebプログラマーとして構築。サイト構築から、PMへの提案も行う。
 <!-- - https://github.com/EC-CUBE/ec-cube  -->
-- [EC-CUBE](https://github.com/EC-CUBE/ec-cube)
+<!-- - [EC-CUBE](https://github.com/EC-CUBE/ec-cube) -->
 
 
 ### 株式会社MS（2020/07 〜 2022/04）
-職種：Webプログラマー、Webエンジニア、新規開発、保守運用
+職種：Webプログラマー、Webエンジニア、機能追加、保守運用
 
 #### 1. B to C向け中古品販売プラットフォーム
-- 担当：PG、サイト構築、新規プラットフォーム開発
+- 担当：メインPG、新規機能追加、保守運用
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker
 - 新規でWeb中古品販売プラットフォーをWebプログラマーとして構築。サイト構築から、PMへの提案も行う。
 
 #### 2. C向け物件管理システム
-- 担当：PG、サイト構築、新規プラットフォーム開発
+- 担当：メインPG、新規プラットフォーム開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker
 - メインPGとして新規で物件管理システムをWebプログラマーとして構築。4ヶ月間常駐してサイト構築の業務を行う。
 
 #### 3.オンライン名刺サービス
-- 担当：PG、プログラミング
+- 担当：PG
 - 開発：Rails、Ruby、MySQL、JavaScript、JQuery
 - 保守運用をベースに新規機能追加を実装〜テストコードまで実装。
 
@@ -131,7 +134,7 @@ I am doing these studies for the next five to ten years.　👋
 - 2021年〜現在。タスク管理に利用。
 
 ## 得意なこと
-### Webプログラマー、
+### Webプログラマー
 
 - 　新規開発
 - 　保守運用
@@ -147,16 +150,16 @@ I am doing these studies for the next five to ten years.　👋
 - Webリテラシー(20２１年12月)
 
 ### 英語学習
+- [ハノイ大学](http://fit.hanu.vn/)　(20２2年10月　~ 継続中)
 - [ミライズ英会話](https://eikaiwa.merise.asia/)　(20２1年7月　~ 休会中)
 - [DMM英会話](https://eikaiwa.dmm.com/)　(20２0年4月　~ 20２1年6月)
 - [KREDO IT ABROAD](https://kredo.jp/)　(2019年4月　~ 20２0年3月)
 
 
-### 目標
+<!-- ### 目標
 - IELTS ACADEMIC Overall 6.0でを取得できるまで英語力の向上
 - [統計学超入門講座](https://www.udemy.com/course/python-stats/)を完了する。(20２2年)
-
-
+ -->
 
 <!--　追加ここから　-->
 <!--
