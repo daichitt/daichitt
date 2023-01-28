@@ -78,7 +78,7 @@ I am doing these studies for the next five to ten years.　👋
 
 #### 2. C向け物件管理システム
 - 担当：メインPG、新規プラットフォーム開発
-- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker
+- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
 - HTMLで構成されたデザインをLaravelのViewファイルへの落とし込みを担当。
 
 #### 3.オンライン名刺サービス
@@ -129,13 +129,14 @@ I am doing these studies for the next five to ten years.　👋
 - [Introduction to Statistics](https://jp.coursera.org/learn/stanford-statistics)
 
 ## 得意なこと
-### Webプログラマー
+### WebPG
 
 - 　新規開発
 - 　保守運用
 
 ## 今後挑戦したいこと 
-### Webプログラマーとしての開発から統計等を使用した課題の解決
+<!-- ### Webプログラマーとしての開発から統計等を使用した課題の解決 -->
+### PGとしての新規開発から統計学を活かしたデータ分析
 ソフトウェアエンジニア、データサイエンティストに興味あり
 
 ## 資格
