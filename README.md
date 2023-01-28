@@ -57,28 +57,29 @@ I am doing these studies for the next five to ten years.　👋
 
 
 ### 個人事業主(2022/05〜2022/07)
-職種：Webプログラマー、Webエンジニア、新規開発、保守運用
+職種：PG、機能追加、保守運用
 
 #### 1. D to C　　向けECサイト運用 Webプログラマー 
-- 担当：PG、サイト構築、新規プラットフォーム開発
+- 担当：PG、機能追加、保守運用
 - 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
-- 新規でWeb中古品販売プラットフォーをWebプログラマーとして構築。サイト構築から、PMへの提案も行う。
+- 既存のECサイトの案件にPGとして参画しました。
+機能追加から保守運用までをSymfonyとJavaScript(JQuery)で対応しました。
 <!-- - https://github.com/EC-CUBE/ec-cube  -->
 <!-- - [EC-CUBE](https://github.com/EC-CUBE/ec-cube) -->
 
 
 ### 株式会社MS（2020/07 〜 2022/04）
-職種：Webプログラマー、Webエンジニア、機能追加、保守運用
+職種：PG、新規システム開発、機能追加、保守運用
 
-#### 1. B to C向け中古品販売プラットフォーム
+#### 1. B to C向け中古品販売システム開発
 - 担当：メインPG、新規機能追加、保守運用
-- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker
-- 新規でWeb中古品販売プラットフォーをWebプログラマーとして構築。サイト構築から、PMへの提案も行う。
+- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
+- 新規でWeb中古品販売システムをメインPGとして参画。Laravelでのバックエンドの開発からJavaScript(jQuery)でのフロントエンドまで。
 
 #### 2. C向け物件管理システム
 - 担当：メインPG、新規プラットフォーム開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker
-- メインPGとして新規で物件管理システムをWebプログラマーとして構築。4ヶ月間常駐してサイト構築の業務を行う。
+- HTMLで構成されたデザインをLaravelのViewファイルへの落とし込みを担当。
 
 #### 3.オンライン名刺サービス
 - 担当：PG
