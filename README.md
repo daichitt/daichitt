@@ -41,12 +41,12 @@ I am doing these studies for the next five to ten years.　👋
 
 |  Key  |  Value  |
 | ---- | ---- |
-|  氏名  | Ishikawa Daichi  |
-|  場所  |  ベトナム  |
+|  Name | Ishikawa Daichi  |
+|  Location  |  Vietnam  |
 |  twitter  |  [@71414744e2414f4](https://twitter.com/71414744e2414f4)  |
 |  Facebook  |  [@daichiihiskawa](https://www.facebook.com/profile.php?id=100030926687822)  |
-|  お問合せ  |  [twitterDM](https://twitter.com/71414744e2414f4)  |
-|  英語  |  IELTS Academic Overall 5.0(2022年9月)  |
+|  Contact |  [twitterDM](https://twitter.com/71414744e2414f4)  |
+|  Language  |  IELTS Academic Overall 5.0(2022年9月)  |
 
 ## 職務経歴(サマリー)
 
@@ -59,7 +59,12 @@ I am doing these studies for the next five to ten years.　👋
 ### 個人事業主(2022/05〜2022/07)
 職種：PG、機能追加、保守運用
 
-#### 1. D to C　　向けECサイト運用 Webプログラマー 
+#### 1. Camper car sharing pletform Webプログラマー 
+- 担当：PG、機能追加、保守運用
+- 開発：Node.js、React、TypeScript、MongoDB、Docker
+- Camper car sharing pletform にprogrammer として参画。
+
+#### 2. D to C　　向けECサイト運用 Webプログラマー 
 - 担当：PG、機能追加、保守運用
 - 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
 - 既存のECサイトの案件にPGとして参画しました。
@@ -90,8 +95,17 @@ I am doing these studies for the next five to ten years.　👋
 
 ## プログラミングスキル
 
+### React
+- 2023年から業務にて使用している。
+
+### TypeScript
+- 2023年から業務にて使用している。
+
+### Node.js
+- 2023年から業務にて使用している。
+
 ### Laravel (7以降)
-- 2020年から業務にてLaravelを利用している。
+- 2020年から業務にて利用している。
 
 ### PHP 
 - 2019年〜現在。Laravelの使用のために利用。
@@ -108,20 +122,20 @@ I am doing these studies for the next five to ten years.　👋
 ### MySQL
 - 2019年〜現在。RailsやLaravelでのWeb devのために利用。
 
-### HTML
+<!-- ### HTML
 - 2019年〜現在。読み書き問題なく利用可能。
 
 ### CSS
 - 2019年〜現在。読み書き問題なく利用可能。
 
 ### Bootstrap
-- 2019年〜現在。読み書き問題なく利用可能。
+- 2019年〜現在。読み書き問題なく利用可能。 -->
 
 ### JavaScript
 - 2020年〜現在。簡単なDOMの操作が可能。  Web devのフロントエンドで使用
 
-### JQuery
-- 2020年〜現在。簡単なDOMの操作が可能。  Web devのフロントエンドで使用
+<!-- ### JQuery
+- 2020年〜現在。簡単なDOMの操作が可能。  Web devのフロントエンドで使用 -->
 
 ### Python
 - 2022年〜現在。　統計学の学習で利用。
@@ -226,5 +240,7 @@ Upper-intermediate English
 
 
 <!-- ここから -->
+
+
 
 
