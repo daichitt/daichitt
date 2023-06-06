@@ -41,10 +41,10 @@ I am doing these studies for the next five to ten years.　👋
 
 |  Key  |  Value  |
 | ---- | ---- |
-|  Name | Ishikawa Daichi  |
+<!-- |  Name | Ishikawa Daichi  | -->
 |  Location  |  Vietnam  |
 |  twitter  |  [@71414744e2414f4](https://twitter.com/71414744e2414f4)  |
-|  Facebook  |  [@daichiihiskawa](https://www.facebook.com/profile.php?id=100030926687822)  |
+<!-- |  Facebook  |  [@daichiihiskawa](https://www.facebook.com/profile.php?id=100030926687822)  | -->
 |  Contact |  [twitterDM](https://twitter.com/71414744e2414f4)  |
 |  Language  |  IELTS Academic Overall 5.0(2022年9月)  |
 
