@@ -39,11 +39,13 @@ I am doing these studies for the next five to ten years.　👋
 -->
 ## プロフィール
 
+<!--
+|  Location  |  Vietnam  |
+-->
 |  Key  |  Value  |
 | ---- | ---- |
-|  Location  |  Vietnam  |
 |  twitter  |  [@71414744e2414f4](https://twitter.com/71414744e2414f4)  |
-|  Contact |  [twitterDM](https://twitter.com/71414744e2414f4)  |
+|  Contact |  [LinkedIn](https://linkedin.com/in/daichi-ishikawa-a08a2622a)  |
 |  Language  |  IELTS Academic Overall 5.0(2022年9月)  |
 
 ## 職務経歴(サマリー)
