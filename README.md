@@ -10,7 +10,7 @@ Node.js
 React, TypeScript
 
 ## Education
-- September 2022 - Present: Hanoi University (Current)
+- September 2022 - Present: Hanoi University
 
 ## 🗣 Languages
 
@@ -34,15 +34,15 @@ Upper-intermediate English
 Job Title : Software Engineer
 
 #### 1. Camper car sharing pletform 
-- Responsibilities： Feature Addition, Maintenance
+- Responsibilities： Supports operation
 - Development：Node.js、React、TypeScript、MongoDB、Docker
 
 #### 2. E-commerce
-- Responsibilities： Feature Addition, Maintenance
+- Responsibilities： Supports operation
 - Development：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
 
-### Corporation MS (July 2020 ~ April 2022)
-Job Title : Software Engineer
+### MS Inc (July 2020 ~ April 2022)
+Job Title : Junior Software Engineer
 
 #### 1. E-commerce
 - Responsibilities： Create a Platform from Scratch
@@ -53,7 +53,7 @@ Job Title : Software Engineer
 - Development: Laravel, PHP, MySQL, JavaScript, jQuery, Docker, AWS CodeCommit
 
 #### 3. Virtual Business Cards
-- Responsibilities： Feature Addition, Maintenance
+- Responsibilities： Supports operation
 - Development: Rails, Ruby, MySQL, JavaScript, jQuery
 
 July 2020 - December 2020: (omitted)
