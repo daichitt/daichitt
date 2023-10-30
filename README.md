@@ -1,5 +1,5 @@
 # About me
-I'm one of junior software developers who love technology. I'm currently working with Node.js, React.js, and TypeScript. I actively contribute to the success of the start-up company I am currently working with.
+I'm one of the junior software developer with 2.5 years of experience who love technology. I'm currently working with Node.js, React.js, and TypeScript. I actively contribute to the success of the start-up company I am currently working with.
 
 ## Skills 
 
