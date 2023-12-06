@@ -1,10 +1,10 @@
 # About me
-I'm one of the junior software developer with 2.5 years of experience who love technology. I'm currently working with Node.js, React.js, and TypeScript. I actively contribute to the success of the start-up company I am currently working with.
+I'm one of the software developer with 2.5 years of experience who loves technology. I'm currently working with Node.js, React.js, and TypeScript. I actively contribute to the success of the start-up company I am currently working with.
 
 ## Skills 
 
 ### Backend current 
-Node.js
+Node.js, Python
 
 ### Frontend current
 React, TypeScript
@@ -12,9 +12,9 @@ React, TypeScript
 ## Work Experience
 
 ### Individual Business (May 2022 ~ Present)
-Job Title : Software Engineer
+Job Title: Software Engineer
 
-#### 1. Camper car sharing pletform 
+#### 1. Car sharing platform 
 - Responsibilities： Supports operation
 - Development：Node.js、React、TypeScript、MongoDB、Docker
 
@@ -23,7 +23,7 @@ Job Title : Software Engineer
 - Development：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
 
 ### MS Inc (July 2020 ~ April 2022)
-Job Title : Junior Software Engineer
+Job Title: Junior Software Engineer
 
 #### 1. E-commerce
 - Responsibilities： Create a Platform from Scratch
