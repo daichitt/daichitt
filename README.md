@@ -16,11 +16,11 @@ Job Title: Software Engineer
 
 #### 1. Car sharing platform 
 - Responsibilities： Supports operation
-- Development：Node.js、React、TypeScript、MongoDB、Docker
+- Development：Node.js, React, TypeScript, MongoDB, Docker
 
 #### 2. E-commerce
 - Responsibilities： Supports operation
-- Development：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
+- Development：Symfony, PHP, MySQL, JavaScript, JQuery, Docker, EC-CUBE
 
 ### MS Inc (July 2020 ~ April 2022)
 Job Title: Junior Software Engineer
@@ -117,36 +117,36 @@ I'm one of junior software developper who loves Technology. I'm currentlly worki
 
 
 ### 個人事業主(2022/05〜2022/07)
-職種：PG、機能追加、保守運用
+職種：PG, 機能追加, 保守運用
 
 #### 1. Camper car sharing pletform Web Developer 
-- 担当：PG、機能追加、保守運用
-- 開発：Node.js、React、TypeScript、MongoDB、Docker
+- 担当：PG, 機能追加, 保守運用
+- 開発：Node.js, React, TypeScript, MongoDB, Docker
 - Camper car sharing pletform にprogrammer として参画。
 
 #### 2. D to C　　向けECサイト運用 Webプログラマー 
-- 担当：PG、機能追加、保守運用
-- 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
+- 担当：PG, 機能追加, 保守運用
+- 開発：Symfony, PHP, MySQL, JavaScript, JQuery, Docker, EC-CUBE
 - 既存のECサイトの案件にPGとして参画しました。
 機能追加から保守運用までをSymfonyとJavaScript(JQuery)で対応しました。
 
 
 ### 株式会社MS（2020/07 〜 2022/04）
-職種：PG、新規システム開発、機能追加、保守運用
+職種：PG, 新規システム開発, 機能追加, 保守運用
 
 #### 1. B to C向け中古品販売システム開発
-- 担当：メインPG、新規機能追加、保守運用
-- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
+- 担当：メインPG, 新規機能追加, 保守運用
+- 開発：Laravel, PHP, MySQL, JavaScript, JQuery, Docker, AWS CodeCommit
 - 新規でWeb中古品販売システムをメインPGとして参画。Laravelでのバックエンドの開発からJavaScript(jQuery)でのフロントエンドまで。
 
 #### 2. C向け物件管理システム
-- 担当：メインPG、新規プラットフォーム開発
-- 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
+- 担当：メインPG, 新規プラットフォーム開発
+- 開発：Laravel, PHP, MySQL, JavaScript, JQuery, Docker, AWS CodeCommit
 - HTMLで構成されたデザインをLaravelのViewファイルへの落とし込みを担当。
 
 #### 3.オンライン名刺サービス
 - 担当：PG
-- 開発：Rails、Ruby、MySQL、JavaScript、JQuery
+- 開発：Rails, Ruby, MySQL, JavaScript, JQuery
 - 保守運用をベースに新規機能追加を実装〜テストコードまで実装。
 
 2020年7月 - 2020年12月 以下省略
@@ -204,7 +204,7 @@ I'm one of junior software developper who loves Technology. I'm currentlly worki
 
 ## 今後挑戦したいこと 
 ### PGとしての新規開発から統計学を活かしたデータ分析
-ソフトウェアエンジニア、データサイエンティストに興味あり
+ソフトウェアエンジニア, データサイエンティストに興味あり
 
 ## 資格
 - IELTS ACADEMIC Overall 5.0(2022年9月) 
