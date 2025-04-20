@@ -1,5 +1,6 @@
 # About me
-I'm a software developer with 2.5 years of experience who loves technology. I'm currently working with Node.js, React.js, and TypeScript. I actively contribute to the success of the start-up company I am currently working with.
+I'm a software developer with 3+ years of experience who loves technology. I'm currently working with Node.js, React.js, and TypeScript.
+I actively contribute to the success of the start-up company I am currently working with.
 
 ## Skills 
 
